@@ -8,9 +8,8 @@ layout: editorial
 
 # Database Magazine
 
-{% hint style="info" %}
 Database Magazine includes best practices and tips for data protection, backup, and recovery, as well as answers to frequently asked questions. We've also included a list of resources for further learning.
-{% endhint %}
+<a href="https://www.database-magazine.com/data-protection/">DataBase Magazine</a> 
 
 ## **Explore our Featured Sections:**
 
