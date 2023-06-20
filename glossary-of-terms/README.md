@@ -180,17 +180,17 @@ Browse through our list of terms and definitions, and feel free to share your fe
 
 <details>
 
-<summary>I</summary>
+<summary>K</summary>
 
-[Incremental Backup](i/incremental-backup.md)
+[Key Management](k/key-management.md)
 
-[Image-based Backup](i/image-based-backup.md)
+[Kernel-Based Recovery](k/kernel-based-recovery.md)
 
-[Instant Recovery](i/instant-recovery.md)
+[Kickstart](k/kickstart.md)
 
-[Integrity Check](i/instant-recovery.md)
+[Kept Versions](k/kept-versions.md)
 
-[Infrastructure as a Service (IaaS)](i/instant-recovery.md)
+[Kill Switch](k/kill-switch.md)
 
 </details>
 
