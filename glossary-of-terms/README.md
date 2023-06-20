@@ -166,15 +166,15 @@ Browse through our list of terms and definitions, and feel free to share your fe
 
 <summary>J</summary>
 
-[Journaling](broken-reference)
+[Journaling](j/journaling.md)
 
-[Job Scheduler](broken-reference)
+[Job Scheduler](j/job-scheduler.md)
 
-[Instant Recovery](i/instant-recovery.md)
+[Just-in-Time Recovery](j/just-in-time-recovery.md)
 
-[Integrity Check](i/instant-recovery.md)
+[Journal-Based Recovery](j/journal-based-recovery.md)
 
-[Infrastructure as a Service (IaaS)](i/instant-recovery.md)
+[Jumbo Frames](j/jumbo-frames.md)
 
 </details>
 
