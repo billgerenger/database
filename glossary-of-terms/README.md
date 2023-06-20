@@ -212,16 +212,16 @@ Browse through our list of terms and definitions, and feel free to share your fe
 
 <details>
 
-<summary>I</summary>
+<summary>M</summary>
 
-[Incremental Backup](i/incremental-backup.md)
+[Metadata](m/metadata.md)
 
-[Image-based Backup](i/image-based-backup.md)
+[Mirroring](m/mirroring.md)
 
-[Instant Recovery](i/instant-recovery.md)
+[Multi-Site Replication](m/multi-site-replication.md)
 
-[Integrity Check](i/instant-recovery.md)
+[Media Rotation](m/media-rotation.md)
 
-[Infrastructure as a Service (IaaS)](i/instant-recovery.md)
+[Mounting](m/mounting.md)
 
 </details>
