@@ -166,9 +166,9 @@ Browse through our list of terms and definitions, and feel free to share your fe
 
 <summary>J</summary>
 
-[Journaling](i-1/incremental-backup.md)
+[Journaling](broken-reference)
 
-[Job Scheduler](i-1/image-based-backup.md)
+[Job Scheduler](broken-reference)
 
 [Instant Recovery](i/instant-recovery.md)
 

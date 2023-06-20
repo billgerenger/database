@@ -1,34 +1,29 @@
 ---
-description: >-
-  Discover the concept of journal-based recovery and its role in data protection
-  and recovery strategies.
+description: Explore the concept of Kept Versions in the context of backup and recovery.
 ---
 
-# Journal-Based Recovery
+# Kept Versions
 
 ### Definition
 
-Journal-based recovery, in the context of data protection and recovery, refers to a recovery method that utilizes transaction logs, also known as journals, to restore data to a specific point in time. It involves replaying the recorded transactions to reconstruct data changes and ensure data integrity during the recovery process.
+Kept Versions, in the context of backup and recovery, refer to the preserved copies of data or files from various points in time. These versions are retained to provide options for recovering specific versions of data or files based on specific requirements or scenarios.
 
 ### Explanation
 
-Journal-based recovery is a technique that utilizes transaction logs, which record the changes made to a database or system over time. These logs serve as a detailed record of modifications, including updates, inserts, and deletes, made to the data.
+Kept Versions play a crucial role in backup and recovery processes by allowing organizations to restore data or files to specific points in time. When performing backups, multiple versions of data or files are retained, capturing changes made over time. These versions are stored in a backup repository or storage system, ensuring their availability for recovery purposes.
 
-During a recovery process, journal-based recovery leverages these transaction logs to restore data to a specific point in time. By replaying the recorded transactions in chronological order, the system can reconstruct the data changes and bring the database or system to the desired state.
+The retention of multiple versions serves several purposes. First, it provides a historical record of data or file changes, allowing organizations to roll back to a previous state if needed. This is especially valuable in situations where data corruption, accidental deletion, or unauthorized modifications occur, as organizations can restore a clean and unaltered version of the data.
 
-The use of journal-based recovery offers several advantages. First, it provides a fine-grained approach to recovery, allowing organizations to restore data to a specific point in time rather than relying on full backups. This enables more precise recovery, minimizing the impact of data loss.
+Second, kept versions enable organizations to meet various regulatory or compliance requirements. Depending on the industry or data sensitivity, regulations may dictate the retention of data for specific periods. By retaining multiple versions, organizations can ensure compliance with these requirements and have the ability to restore data as it existed at specific points in time for audit or legal purposes.
 
-Furthermore, journal-based recovery ensures data integrity during the recovery process. As the recorded transactions are replayed, the system applies them in a controlled manner, maintaining the consistency and relationships between the data elements. This helps prevent data inconsistencies or corruption that could occur if data was restored from a less granular or incomplete backup.
-
-Journal-based recovery is commonly used in environments where data integrity and minimal data loss are critical, such as databases or systems with high transaction volumes. It provides an efficient and reliable method to recover data to a precise point in time, reducing the risk of data discrepancies or incomplete restores.
+Recovering specific versions of data or files from kept versions typically involves accessing the backup repository or storage system and selecting the desired version based on timestamps or other identifiers. The backup and recovery software or tools used in the process facilitate this selection and restoration, ensuring the accuracy and integrity of the recovered data or files.
 
 ### Related terms
 
-* Transaction Log: A record of individual transactions made to a database or system, capturing the changes and serving as the basis for recovery operations.
-* Point-in-Time Recovery: The ability to restore data to a specific moment or timestamp, ensuring consistency and eliminating data changes made after the chosen point.
-* Data Consistency: The state in which data conforms to defined rules, relationships, and constraints, ensuring accuracy and reliability.
-* Redo Log: A type of transaction log that captures changes made to a database and facilitates recovery by replaying the transactions during a restore operation.
-* Recovery Point Objective (RPO): The maximum acceptable amount of data loss measured in time, representing the point to which data can be restored.
-* Recovery Time Objective (RTO): The targeted duration within which systems, applications, or data should be recovered after an incident or failure.
+* Backup Repository: A storage location or system where backup copies of data or files are stored.
+* Data Recovery: The process of restoring data to a usable state after it has been lost, corrupted, or deleted.
+* File Versioning: The practice of retaining multiple versions of a file over time, allowing users to access or restore previous versions.
+* Point-in-Time Recovery: The ability to restore data or files to a specific point in time, typically achieved through the availability of multiple backup versions.
+* Backup Retention Policy: A set of guidelines or rules that govern the duration and retention of backup data or files.
 
-Implementing journal-based recovery as part of a data protection strategy provides organizations with a precise and efficient method to restore data to a specific point in time. By leveraging transaction logs, journal-based recovery ensures data integrity and minimizes data loss, enhancing the reliability and consistency of the recovery process.
+Kept Versions provide organizations with flexibility and control when it comes to data recovery. By retaining multiple versions of data or files, organizations can recover specific versions based on their needs, ensuring data integrity, compliance, and the ability to address various data-related scenarios effectively.

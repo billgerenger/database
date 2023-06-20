@@ -1,33 +1,33 @@
 ---
 description: >-
-  Understand the concept of Log-Based Recovery in the context of backup and
-  recovery.
+  Discover the concept of Mirroring and its significance in backup and recovery
+  strategies.
 ---
 
-# Log-Based Recovery
+# Mirroring
 
 ### Definition
 
-Log-Based Recovery, in the context of backup and recovery, is a technique that leverages transaction logs to restore data to a consistent state following a system or application failure. It involves replaying the recorded transactions from the transaction logs to recover data changes made since the last backup.
+Mirroring, in the context of backup and recovery, refers to the practice of creating and maintaining real-time, identical copies of data on separate storage devices or systems. It aims to ensure high availability, data redundancy, and rapid recovery in the event of primary system failures.
 
 ### Explanation
 
-Log-Based Recovery is a commonly used method in backup and recovery strategies, particularly in database systems and applications that maintain transaction logs. When a failure occurs, such as a system crash or application error, Log-Based Recovery enables the restoration of data to a consistent state, ensuring that all committed transactions are reapplied and any uncommitted changes are rolled back.
+Mirroring plays a critical role in backup and recovery strategies by providing data redundancy and enabling quick recovery from system failures. It involves the continuous replication of data from a primary system to a secondary system, creating an exact mirror image of the primary data in real-time.
 
-The process of Log-Based Recovery involves several steps. First, a full backup of the database or application is taken, capturing the initial state of the data. Subsequently, transaction logs are continuously recorded, documenting all changes made to the data over time. In the event of a failure, the backed-up data is combined with the recorded transaction logs to restore the database or application to a consistent state.
+In mirroring, any changes made to the primary data are immediately reflected in the mirrored copy, ensuring data consistency and integrity. This synchronization process can occur at the block level, file level, or database level, depending on the specific mirroring implementation.
 
-During the recovery process, the transaction logs are analyzed and applied in the order they were recorded. Committed transactions are replayed, reapplying their changes to the data, ensuring data consistency. Any uncommitted or incomplete transactions are identified and rolled back, ensuring the integrity of the restored data.
+The primary benefit of mirroring is high availability. By maintaining an up-to-date replica of the primary data, organizations can minimize downtime and ensure uninterrupted access to critical information. In the event of a primary system failure, the secondary mirrored system can seamlessly take over, providing users with continuous access to data and services.
 
-Log-Based Recovery offers several advantages. It enables point-in-time recovery, allowing organizations to restore data to a specific moment in time before the failure occurred. This capability is crucial in scenarios where data corruption or accidental changes need to be undone, or when data needs to be rolled forward to a specific state for consistency.
+Mirroring also offers data redundancy, which is essential for data protection. In case of data corruption, accidental deletion, or hardware failures affecting the primary system, the mirrored copy provides a reliable backup that can be quickly activated to restore operations. This redundancy enhances data resilience and safeguards against data loss.
+
+Furthermore, mirroring enables rapid recovery times. As the mirrored copy contains an identical version of the primary data, the recovery process can be expedited by switching to the mirrored system. This reduces the downtime associated with data restoration and minimizes the impact on business operations.
 
 ### Related terms
 
-* Transaction Logs: Records that capture the sequence of database or application transactions, including data modifications, for recovery and auditing purposes.
-* Point-in-Time Recovery: The ability to restore data to a specific moment in time using transaction logs or other recovery mechanisms.
-* Data Consistency: The state of data where all changes and modifications adhere to predefined integrity constraints and business rules.
-* System Failure: An unexpected event or condition that causes a system or application to cease functioning properly.
-* Rollback: The process of undoing or reverting incomplete or uncommitted transactions to maintain data integrity.
+* High Availability (HA): The ability of a system or infrastructure to remain operational and accessible with minimal downtime, ensuring continuous service availability.
+* Data Redundancy: The practice of creating and maintaining duplicate copies of data to ensure data integrity and protection against data loss.
+* Failover: The automatic switching from a primary system to a secondary system in the event of a primary system failure or disruption.
+* Data Synchronization: The process of ensuring that multiple copies of data are updated and consistent across different systems or storage devices.
+* Replication: The process of creating and maintaining copies of data on separate systems or storage devices for redundancy or distribution purposes.
 
-Log-Based Recovery is a powerful technique that ensures data consistency and enables point-in-time recovery. By leveraging transaction logs, organizations can recover data to a consistent state after a failure, minimizing data loss and maintaining data integrity in critical systems and applications.
-
-\
+Mirroring is a critical component of backup and recovery strategies, providing high availability, data redundancy, and rapid recovery capabilities. By continuously replicating data to a secondary system, organizations can ensure business continuity, minimize data loss risks, and achieve quick restoration in case of primary system failures.
