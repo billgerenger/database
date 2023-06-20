@@ -36,4 +36,6 @@ Benefits of Image-based Backup include:
 * Recovery Point Objective (RPO): RPO defines the maximum acceptable amount of data loss in case of a system failure or data loss event. Image-based Backup with frequent backups can help achieve lower RPOs.
 * Bare-Metal Recovery: Bare-Metal Recovery involves restoring an entire system, including the operating system, applications, and data, to a new or repaired hardware environment. Image-based Backup is often used for bare-metal recovery scenarios.
 
+It's important to note that Image-based Backup requires sufficient storage capacity and efficient backup software or tools capable of creating and managing system-level images effectively.
+
 \

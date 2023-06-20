@@ -35,3 +35,5 @@ Benefits of Instant Recovery include:
 * Replication: Replication is the process of creating and maintaining copies of data or systems in real-time or near-real-time. Instant Recovery often relies on replication technologies to keep standby replicas synchronized with the production environment.
 * Failover: Failover is the process of switching operations from a failed or disrupted system to a standby or backup system. Instant Recovery involves failover mechanisms to bring the standby replica online and redirect traffic or users to the recovered environment.
 * Virtualization: Virtualization technologies, such as server virtualization or containerization, can play a significant role in Instant Recovery by allowing for quick deployment and restoration of systems or applications in virtual environments.
+
+It's important to note that Instant Recovery strategies should be carefully planned, tested, and implemented to ensure their effectiveness in different failure scenarios. Organizations should consider the specific requirements, resources, and technologies needed to achieve reliable and fast Instant Recovery capabilities.

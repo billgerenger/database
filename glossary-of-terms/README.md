@@ -161,3 +161,67 @@ Browse through our list of terms and definitions, and feel free to share your fe
 [Infrastructure as a Service (IaaS)](i/instant-recovery.md)
 
 </details>
+
+<details>
+
+<summary>J</summary>
+
+[Journaling](i-1/incremental-backup.md)
+
+[Job Scheduler](i-1/image-based-backup.md)
+
+[Instant Recovery](i/instant-recovery.md)
+
+[Integrity Check](i/instant-recovery.md)
+
+[Infrastructure as a Service (IaaS)](i/instant-recovery.md)
+
+</details>
+
+<details>
+
+<summary>I</summary>
+
+[Incremental Backup](i/incremental-backup.md)
+
+[Image-based Backup](i/image-based-backup.md)
+
+[Instant Recovery](i/instant-recovery.md)
+
+[Integrity Check](i/instant-recovery.md)
+
+[Infrastructure as a Service (IaaS)](i/instant-recovery.md)
+
+</details>
+
+<details>
+
+<summary>I</summary>
+
+[Incremental Backup](i/incremental-backup.md)
+
+[Image-based Backup](i/image-based-backup.md)
+
+[Instant Recovery](i/instant-recovery.md)
+
+[Integrity Check](i/instant-recovery.md)
+
+[Infrastructure as a Service (IaaS)](i/instant-recovery.md)
+
+</details>
+
+<details>
+
+<summary>I</summary>
+
+[Incremental Backup](i/incremental-backup.md)
+
+[Image-based Backup](i/image-based-backup.md)
+
+[Instant Recovery](i/instant-recovery.md)
+
+[Integrity Check](i/instant-recovery.md)
+
+[Infrastructure as a Service (IaaS)](i/instant-recovery.md)
+
+</details>

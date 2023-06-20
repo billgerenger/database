@@ -38,3 +38,5 @@ Benefits of Incremental Backup include:
 * Backup Retention: Backup Retention refers to the duration for which backup copies are retained. Incremental backups are often retained for a specific period, allowing for point-in-time restores within that retention window.
 * Backup Strategy: Backup Strategy encompasses the overall approach and methodology used for data backups. Incremental Backup is a common strategy used to balance backup time, storage efficiency, and data protection.
 * Data Loss Prevention: Data Loss Prevention encompasses strategies and measures implemented to prevent the loss of important data. Incremental Backup is a key component of data loss prevention by regularly capturing and preserving data changes.
+
+It's worth noting that the restore process for Incremental Backup requires all the necessary incremental backups in the correct order. Organizations should maintain a proper backup rotation and ensure the availability of all required backups for successful data restoration.

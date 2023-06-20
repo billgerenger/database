@@ -34,3 +34,5 @@ Benefits and Characteristics of HDDs:
 * Data Storage: Data storage encompasses the process of storing digital information for later retrieval and use. HDDs are a popular form of data storage in various computing systems.
 * Latency: HDDs have higher latency compared to SSDs. Latency refers to the time delay between a request for data and the retrieval of that data. HDDs require physical movement of read/write heads to access data, which contributes to higher latency compared to the near-instantaneous access of data in SSDs.
 * Data Transfer Rate: The data transfer rate of an HDD refers to the speed at which data can be read from or written to the drive. It is typically measured in megabytes per second (MB/s) or gigabytes per second (GB/s) and can vary depending on the specific HDD model and its performance characteristics.
+
+Please note that HDD technology is subject to advancements and changes. It is essential to consider the latest developments and specifications when working with or evaluating HDDs.
