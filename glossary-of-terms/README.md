@@ -196,17 +196,17 @@ Browse through our list of terms and definitions, and feel free to share your fe
 
 <details>
 
-<summary>I</summary>
+<summary>L</summary>
 
-[Incremental Backup](i/incremental-backup.md)
+[Long-Term Retention](l/long-term-retention.md)
 
-[Image-based Backup](i/image-based-backup.md)
+[Log-Baged Recovery](l/long-term-retention.md)
 
-[Instant Recovery](i/instant-recovery.md)
+[Local Backup](l/local-backup.md)
 
-[Integrity Check](i/instant-recovery.md)
+[Latency](l/latency.md)
 
-[Infrastructure as a Service (IaaS)](i/instant-recovery.md)
+[Load Balancing](l/load-balancing.md)
 
 </details>
 
