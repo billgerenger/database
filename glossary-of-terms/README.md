@@ -225,3 +225,35 @@ Browse through our list of terms and definitions, and feel free to share your fe
 [Mounting](m/mounting.md)
 
 </details>
+
+<details>
+
+<summary>N</summary>
+
+[Nearline Storage](n/nearline-storage.md)
+
+[Network-Attached Storage (NAS)](n/network-attached-storage-nas.md)
+
+[Non-Destructive Recovery](n/non-destructive-recovery.md)
+
+</details>
+
+<details>
+
+<summary>O</summary>
+
+[Offsite Backup](o/offsite-backup.md)
+
+[Online Backup](o/online-backup.md)
+
+[Object Storage](o/object-storage.md)
+
+[Offsite Replication](o/offsite-replication.md)
+
+[Open File Backup](o/open-file-backup.md)
+
+[Overwrite Protection](o/overwrite-protection.md)
+
+[One-Click Restore](o/one-click-restore.md)
+
+</details>
