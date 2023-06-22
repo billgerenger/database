@@ -257,3 +257,51 @@ Browse through our list of terms and definitions, and feel free to share your fe
 [One-Click Restore](o/one-click-restore.md)
 
 </details>
+
+<details>
+
+<summary>P</summary>
+
+[Point-in-Time Recovery](p/point-in-time-recovery.md)
+
+[Primary Storage](p/primary-storage.md)
+
+[Physical Backup](p/physical-backup.md)
+
+[Private Cloud Backup](p/private-cloud-backup.md)
+
+[P2V (Physical-to-Virtual) Conversion](p/p2v-physical-to-virtual-conversion.md)
+
+</details>
+
+<details>
+
+<summary>Q</summary>
+
+[Quiesce](q/quiesce.md)
+
+[Quick Recovery](q/quick-recovery.md)
+
+[Quota Management](q/quota-management.md)
+
+[Quality of Service (QoS)](q/quality-of-service-qos.md)
+
+[Query-Based Recovery](q/query-based-recovery.md)
+
+</details>
+
+<details>
+
+<summary>R</summary>
+
+[Recovery Point Objective (RPO)](r/recovery-point-objective-rpo.md)
+
+[Recovery Time Objective (RTO)](r/recovery-time-objective-rto.md)
+
+[Replication](r/replication.md)
+
+[Restore](r/restore.md)
+
+[Retention Policy](r/retention-policy.md)
+
+</details>
