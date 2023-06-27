@@ -305,3 +305,35 @@ Browse through our list of terms and definitions, and feel free to share your fe
 [Retention Policy](r/retention-policy.md)
 
 </details>
+
+<details>
+
+<summary>S</summary>
+
+[Snapshot](s/snapshot.md)
+
+[Storage Area Network (SAN)](s/storage-area-network-san.md)
+
+[Secondary Storage](s/secondary-storage.md)
+
+[Single Point of Failure (SPOF)](s/single-point-of-failure-spof.md)
+
+[Synthetic Full Backup](s/synthetic-full-backup.md)
+
+</details>
+
+<details>
+
+<summary>T</summary>
+
+[Tape Backup](t/tape-backup.md)
+
+[Two-Factor Authentication](t/two-factor-authentication-2fa.md)
+
+[Thin Provisioning](t/thin-provisioning.md)
+
+[Test Restore](t/test-restore.md)
+
+[Transaction Log](t/transaction-log.md)
+
+</details>
