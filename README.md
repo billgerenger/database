@@ -50,3 +50,15 @@ Stay ahead of the curve by subscribing to Database Magazine. Join our growing co
 
 Ready to dive in [DataBase Magazine](https://www.database-magazine.com/data-protection/)? Start exploring our glossary, reading informative articles, and implementing best practices for data protection, backup, and recovery.
 
+```json
+// {
+  "plugins": [
+    "canonical-link"
+  ],
+  "pluginsConfig": {
+    "canonical-link": {
+      "baseURL": "https://www.database-magazine.com/data-protection/"
+    }
+  }
+}
+```
