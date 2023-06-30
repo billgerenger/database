@@ -28,6 +28,8 @@ Browse through our list of terms and definitions, and feel free to share your fe
 
 [Agent](a/active-directory.md)
 
+[Anti-ransomware solutions](a/anti-ransomware-solutions.md)
+
 </details>
 
 <details>
@@ -46,7 +48,9 @@ Browse through our list of terms and definitions, and feel free to share your fe
 
 [Backup schedule](b/backup-schedule.md)
 
+[Backup Solutions](b/backup-solutions.md)
 
+[Business Continuity](b/business-continuity.md)
 
 </details>
 
@@ -335,5 +339,69 @@ Browse through our list of terms and definitions, and feel free to share your fe
 [Test Restore](t/test-restore.md)
 
 [Transaction Log](t/transaction-log.md)
+
+</details>
+
+<details>
+
+<summary>U</summary>
+
+[Universal Restore](u/universal-restore.md)
+
+</details>
+
+<details>
+
+<summary>V</summary>
+
+[Versioning](v/versioning.md)
+
+[Virtual Machine (VM) Backup](v/virtual-machine-vm-backup.md)
+
+[Verification](v/verification.md)
+
+[Vaulting](v/vaulting.md)
+
+[Virtual Tape Library (VTL)](v/virtual-tape-library-vtl.md)
+
+</details>
+
+<details>
+
+<summary>W</summary>
+
+[Warm Site](w/warm-site.md)
+
+[Workload Mobility](w/workload-mobility.md)
+
+[WAN Acceleration](w/wan-acceleration.md)
+
+[Write-Once, Read-Many (WORM)](w/write-once-read-many-worm.md)
+
+[Windows Backup](w/windows-backup.md)
+
+</details>
+
+<details>
+
+<summary>X</summary>
+
+[XOR (Exclusive OR)](x/xor-exclusive-or.md)
+
+</details>
+
+<details>
+
+<summary>Y</summary>
+
+[Yearly Backup](y/yearly-backup.md)
+
+</details>
+
+<details>
+
+<summary>Z</summary>
+
+[Zero Data Loss](z/zero-data-loss.md)
 
 </details>
