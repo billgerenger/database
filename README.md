@@ -38,7 +38,7 @@ Find answers to commonly asked questions about data protection, backup, and reco
 
 <details>
 
-<summary><a href="resources.md">Resources</a></summary>
+<summary><a href="resources/">Resources</a></summary>
 
 Explore our curated collection of resources to expand your knowledge and stay informed. We provide links to relevant whitepapers, e-books, webinars, and other valuable materials from trusted sources in the industry. These resources offer in-depth insights and practical guidance to further enhance your data management skills.
 

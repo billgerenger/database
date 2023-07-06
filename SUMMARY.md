@@ -185,4 +185,5 @@
   * [What are the downsides of Backblaze?](faqs/what-are-the-downsides-of-backblaze.md)
   * [Does Backblaze backup everything?](faqs/does-backblaze-backup-everything.md)
   * [Is Backblaze better than Google Drive?](faqs/is-backblaze-better-than-google-drive.md)
-* [Resources](resources.md)
+* [Resources](resources/README.md)
+  * [form](resources/form.md)
